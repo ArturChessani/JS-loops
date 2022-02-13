@@ -56,11 +56,11 @@
 
 // 4. Создать _шаблон_ обьекта Пользователь.
 // Принимать параметры - username, age, isMale, password.
-function User(username, age, isMale, password) {
-  this.username = username;
-  this.age = age;
-  this.isMale = isMale;
-  this.password = password;
-}
+// function User(username, age, isMale, password) {
+//   this.username = username;
+//   this.age = age;
+//   this.isMale = isMale;
+//   this.password = password;
+// }
 
-console.log(new User('Ivan', '44', 'true', 'Ivan_44'));
+// console.log(new User('Ivan', '44', 'true', 'Ivan_44'));
